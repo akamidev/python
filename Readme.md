@@ -45,13 +45,13 @@ Assure-toi d'avoir Python installé sur ton système.
 
    ```bash
    cd nettoyage-temp-python
-
+   ```
 ### Exécuter le script :
 
    ```bash
    python nettoyage_temp.py
+   ```
    
-
 ### Personnalisation ⚙️
 
 Par défaut, le script nettoie les fichiers dans les répertoires temporaires de Windows. Cependant, tu peux personnaliser les dossiers à nettoyer.
@@ -92,10 +92,11 @@ Dans Programme/script, tape python.
 Dans Ajouter des arguments, entre le chemin complet vers ton script Python, par exemple :
 
    ```bash
-     C:\Scripts\nettoyage_temp.py
-     ```
+   C:\Scripts\nettoyage_temp.py
+   ```
 Clique sur OK.
-Finaliser la tâche :
+
+### Finaliser la tâche :
 
 Vérifie que tous les paramètres sont corrects.
 Clique sur OK pour sauvegarder la tâche.
