@@ -115,4 +115,4 @@ Mehdi Akami :[Mon profil GitHub](https://github.com/akamidev)
 
 ### Licence 📜
 
-Ce projet est sous licence MIT. Consulte le fichier LICENSE pour plus d'informations.
+Ce projet est sous licence MIT. Consulte le fichier [LICENSE](https://github.com/akamidev/python/blob/main/LICENSE) pour plus d'informations.
