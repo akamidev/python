@@ -43,15 +43,14 @@ Assure-toi d'avoir Python installé sur ton système.
 
 ### Naviguer dans le répertoire du projet :
 
-     ```bash
-     cd nettoyage-temp-python
-     ```
+   ```bash
+   cd nettoyage-temp-python
 
 ### Exécuter le script :
 
-     ```bash
-     python nettoyage_temp.py
-     ```
+   ```bash
+   python nettoyage_temp.py
+   
 
 ### Personnalisation ⚙️
 
