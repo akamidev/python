@@ -1,6 +1,6 @@
 # Nettoyage Automatique des Fichiers Temporaires
 
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.12.1%2B-blue)](https://www.python.org/downloads/)
 
 ## Description 📄
 
