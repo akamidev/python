@@ -24,28 +24,32 @@ Ce projet propose un script Python qui permet de **supprimer automatiquement les
 Assure-toi d'avoir Python installé sur ton système.
 
 1. **Télécharger Python** : [Installer Python](https://www.python.org/downloads/)
-2. **Vérifier l'installation de Python** :
+
+2.  **Vérifier l'installation de Python** :
+   
    - Ouvre une invite de commande et tape :
-     ```bash
-     python --version
-     ```
+     
+   ```bash
+   python --version
+   ```
      Cela doit afficher la version de Python.
 
 ### Étapes d'installation
 
 1. **Cloner ce repository** sur ton système :
+   
    ```bash
    git clone https://github.com/tonutilisateur/nettoyage-temp-python.git
 
 ### Naviguer dans le répertoire du projet :
 
-    ```bash
+     ```bash
      cd nettoyage-temp-python
      ```
 
 ### Exécuter le script :
 
-    ```bash
+     ```bash
      python nettoyage_temp.py
      ```
 
@@ -88,7 +92,7 @@ Va dans l'onglet Actions et clique sur Nouveau.
 Dans Programme/script, tape python.
 Dans Ajouter des arguments, entre le chemin complet vers ton script Python, par exemple :
 
-     ```bash
+   ```bash
      C:\Scripts\nettoyage_temp.py
      ```
 Clique sur OK.
