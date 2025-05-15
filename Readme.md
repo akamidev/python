@@ -1,6 +1,9 @@
-# Nettoyage Automatique des Fichiers Temporaires
+# 🧹 Nettoyage Automatique des Fichiers Temporaires
 
-[![Python Version](https://img.shields.io/badge/python-3.12.1%2B-blue)](https://www.python.org/downloads/)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Automatisé-Planificateur_de_tâches-green)
 
 ## Description 📄
 
